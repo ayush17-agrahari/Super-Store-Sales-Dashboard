@@ -1,4 +1,5 @@
 🌟 Journey Behind the Super Store Sales Dashboard
+
 🧭 Introduction
 Once upon a dataset, a curious analyst (you!) set out to transform rows and columns into a story of business insights. The mission? To decode the sales pulse of a Super Store using Power BI — and make it speak through visuals.
 
@@ -27,6 +28,7 @@ Once upon a dataset, a curious analyst (you!) set out to transform rows and colu
 * Year-on-Year Comparison: Monthly sales and profit trends for 2019 vs 2020
 
 🎛️ Filters for Exploration
+
 *Region
 
 *Country
@@ -38,10 +40,13 @@ Once upon a dataset, a curious analyst (you!) set out to transform rows and colu
 These filters allow users to zoom in and out of the story, tailoring the view to their curiosity.
 
 🎯 Purpose & Impact
+
 This dashboard isn’t just a collection of charts — it’s a decision-making tool. It helps stakeholders understand what’s working, where to improve, and how to strategize for growth.
 
 📚 Learnings & Reflections
+
 Building this dashboard taught me the power of clean data, the importance of visual hierarchy, and how storytelling through analytics can drive real-world impact.
 
 ✅ Conclusion
+
 The Super Store Sales Dashboard offers a clear and interactive view of sales performance across regions, segments, and product categories. With easy-to-use filters and insightful visuals, it helps users make informed decisions and understand business trends at a glance.
