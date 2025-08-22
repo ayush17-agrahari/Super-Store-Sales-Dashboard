@@ -3,7 +3,9 @@
 🧭 Introduction
 
 This dashboard presents a comprehensive analysis of Superstore sales data using Power BI. It transforms raw transactional records into meaningful insights across regions, customer segments, payment modes, and product categories. With interactive visuals and dynamic filters, the dashboard enables users to explore sales trends, compare yearly performance, and identify key business drivers. Designed for clarity and decision-making, this tool supports strategic planning and operational improvements in a retail context.
+
 🛠️ Tools & Techniques
+
 1.Power BI: The canvas of creativity
 
 2.DAX: For calculated fields and dynamic metrics
